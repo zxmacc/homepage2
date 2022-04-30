@@ -432,3 +432,8 @@ nav.use-middle:after {
 nav.use-middle ul li.is-middle {
     border-left: 0
 }
+
+
+a#Email.mdui-btn.mdui-btn-raised.rin-btn.rin-btn-blue.rin-btn-left.mdui-text-capitalize{
+    display: none!important
+}
